@@ -166,7 +166,7 @@ Wyświetlić zawartość pliku `Blinding Lights.txt`.
 $ cat Blinding\ Lights.txt
 ```
 Wynik:
-```bash
+```
 Yeah
 
 I've been tryna call
@@ -203,7 +203,7 @@ Wyświetlić linijki pliku `Can't Feel My Face.txt`, w których znajduje się s�
 $ grep -i "love" "Can't Feel My Face.txt"
 ```
 Wynik:
-```bash
+```
 She told me you'll never be in love, oh, oh, woo
 But I love it, but I love it, oh
 But I love it, but I love it, oh
@@ -223,7 +223,7 @@ But I love it (when I'm with you baby), but I love it (when I'm with you baby)
 <br></br>
 ### Podpunkt 22.
 Wyświetlić linijki pliku `Can't Feel My Face.txt`, w których znajduje się słowo `love`, wraz z numerami linijek w których znajdują się te słowa.
-```bash
+```
 $ grep -n "love" "Can't Feel My Face.txt"
 ```
 Wynik:
