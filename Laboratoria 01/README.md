@@ -223,11 +223,11 @@ But I love it (when I'm with you baby), but I love it (when I'm with you baby)
 <br></br>
 ### Podpunkt 22.
 Wyświetlić linijki pliku `Can't Feel My Face.txt`, w których znajduje się słowo `love`, wraz z numerami linijek w których znajdują się te słowa.
-```
+```bash
 $ grep -n "love" "Can't Feel My Face.txt"
 ```
 Wynik:
-```bash
+```
 9:She told me you'll never be in love, oh, oh, woo
 12:But I love it, but I love it, oh
 14:But I love it, but I love it, oh
